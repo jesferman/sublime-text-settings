@@ -1,0 +1,53 @@
+{
+    "search_threshold": 20000,
+
+    "content_highlight_bar": true,
+    "align_content_highlight_bar": true,
+	"bracket_styles": {
+		 "curly": {
+            "icon": "curly_bracket",
+             "color": "brackethighlighter.curly",
+             "style": "underline"
+        },
+        "round": {
+            "icon": "round_bracket",
+             "color": "brackethighlighter.round",
+             "style": "underline"
+        },
+        "square": {
+            "icon": "square_bracket",
+             "color": "brackethighlighter.square",
+             "style": "underline"
+        },
+        "angle": {
+            "icon": "angle_bracket",
+             "color": "brackethighlighter.angle",
+             "style": "underline"
+        },
+        "tag": {
+            "icon": "tag",
+             "color": "brackethighlighter.tag",
+             "style": "underline"
+        },
+        "c_define": {
+            "icon": "hash",
+             "color": "brackethighlighter.c_define",
+             "style": "underline"
+        },
+        "single_quote": {
+            "icon": "single_quote",
+             "color": "brackethighlighter.quote",
+             "style": "underline"
+        },
+        "double_quote": {
+            "icon": "double_quote",
+             "color": "brackethighlighter.quote",
+             "style": "underline"
+        },
+        "regex": {
+            "icon": "regex",
+             "color": "brackethighlighter.quote",
+             "style": "underline"
+        }
+	}
+}
