@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"All Autocomplete",
 		"Base16 Color Schemes",
 		"BracketHighlighter",
@@ -15,7 +16,6 @@
 		"Material Theme - Appbar",
 		"Package Control",
 		"PackageResourceViewer",
-		"SublimeLinter",
-		"zz File Icons"
+		"SublimeLinter"
 	]
 }
