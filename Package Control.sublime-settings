@@ -7,16 +7,16 @@
 	[
 		"A File Icon",
 		"All Autocomplete",
-		"Base16 Color Schemes",
 		"BracketHighlighter",
 		"DoxyDoxygen",
 		"FileDiffs",
-		"Git",
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Package Control",
 		"PackageResourceViewer",
+		"SublimeGit",
 		"SublimeLinter",
+		"SublimeLinter-shellcheck",
 		"SublimeManpage"
 	]
 }
