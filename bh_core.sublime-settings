@@ -1,5 +1,5 @@
 {
-    "search_threshold": 20000,
+    "search_threshold": 40000,
 
     "content_highlight_bar": true,
     "align_content_highlight_bar": true,

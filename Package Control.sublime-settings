@@ -8,15 +8,19 @@
 		"A File Icon",
 		"All Autocomplete",
 		"BracketHighlighter",
+		"Dockerfile Syntax Highlighting",
 		"DoxyDoxygen",
 		"FileDiffs",
+		"Kubernetes Manifest autocomplete",
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Package Control",
 		"PackageResourceViewer",
 		"SublimeGit",
 		"SublimeLinter",
+		"SublimeLinter-contrib-yamllint",
 		"SublimeLinter-shellcheck",
-		"SublimeManpage"
+		"SublimeManpage",
+		"TypeScript Syntax"
 	]
 }
